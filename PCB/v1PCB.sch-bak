@@ -2114,10 +2114,7 @@ F 3 "~" H 3100 10050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	3600 9750 3850 9750
-Wire Wire Line
 	3400 9950 3400 10000
-Connection ~ 3850 9750
 Connection ~ 3400 10200
 $Comp
 L MX_Alps_Hybrid:MX-NoLED K_72
@@ -2916,9 +2913,7 @@ Wire Wire Line
 Wire Wire Line
 	20400 10950 20400 11000
 Wire Wire Line
-	2850 10750 2850 8750
-Wire Wire Line
-	3850 10750 3850 9750
+	2850 10750 2850 9500
 Wire Wire Line
 	4850 9750 4850 8750
 Wire Wire Line
@@ -3143,8 +3138,6 @@ Wire Wire Line
 	19400 9200 20400 9200
 Wire Wire Line
 	20850 8750 20850 6750
-Wire Wire Line
-	3850 9750 3850 6750
 Wire Wire Line
 	3400 10200 4400 10200
 Wire Wire Line
@@ -3871,7 +3864,7 @@ L Device:Polyfuse_Small F1
 U 1 1 5FA1E3CA
 P 16850 3100
 F 0 "F1" V 17055 3100 50  0000 C CNN
-F 1 "Polyfuse" V 16964 3100 50  0000 C CNN
+F 1 "Polyfuse (1A)" V 16964 3100 50  0000 C CNN
 F 2 "Fuse:Fuse_1206_3216Metric" H 16900 2900 50  0001 L CNN
 F 3 "~" H 16850 3100 50  0001 C CNN
 	1    16850 3100
@@ -3918,4 +3911,13 @@ Wire Wire Line
 Connection ~ 16200 4200
 Wire Wire Line
 	15650 3100 16750 3100
+Wire Wire Line
+	3850 6750 3850 10750
+Wire Wire Line
+	3600 9750 3600 9500
+Wire Wire Line
+	3600 9500 2850 9500
+Connection ~ 2850 9500
+Wire Wire Line
+	2850 9500 2850 8750
 $EndSCHEMATC
