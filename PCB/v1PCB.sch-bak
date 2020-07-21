@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:v1PCB-cache
 EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
@@ -3271,17 +3272,6 @@ Wire Wire Line
 Wire Wire Line
 	20850 5750 20850 6750
 $Comp
-L MCU_ST_STM32F0:STM32F072CBUx U1
-U 1 1 5F25C889
-P 11200 2600
-F 0 "U1" H 11150 4281 50  0000 C CNN
-F 1 "STM32F072CBUx" H 11150 4190 50  0000 C CNN
-F 2 "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm" H 10600 1200 50  0001 R CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf" H 11200 2600 50  0001 C CNN
-	1    11200 2600
-	1    0    0    -1  
-$EndComp
-$Comp
 L Regulator_Linear:MCP1700-3302E_SOT23 U2
 U 1 1 5F2612C5
 P 13950 1700
@@ -3357,10 +3347,6 @@ Wire Wire Line
 	13950 2000 13500 2000
 Wire Wire Line
 	13950 2000 13950 2150
-Connection ~ 11100 1100
-Connection ~ 11200 1100
-Connection ~ 11300 1100
-Connection ~ 11400 1100
 $Comp
 L power:+3.3V #PWR0104
 U 1 1 5F3B332C
@@ -3380,12 +3366,6 @@ Text GLabel 11800 3500 2    50   Input ~ 0
 D-
 Text GLabel 11800 3600 2    50   Input ~ 0
 D+
-Connection ~ 11000 4100
-Wire Wire Line
-	11000 4100 10850 4100
-Connection ~ 11100 4100
-Connection ~ 11200 4100
-Connection ~ 11300 4100
 $Comp
 L Device:R_Small R1
 U 1 1 5F3F0EEB
@@ -3626,73 +3606,11 @@ Wire Wire Line
 Connection ~ 6250 2200
 Wire Wire Line
 	6250 2200 6500 2200
-Wire Wire Line
-	11400 4100 11300 4100
-Wire Wire Line
-	11300 4100 11200 4100
-Wire Wire Line
-	11200 4100 11100 4100
-Wire Wire Line
-	11100 4100 11000 4100
-Wire Wire Line
-	11400 1100 11550 1100
-Wire Wire Line
-	11300 1100 11400 1100
-Wire Wire Line
-	11200 1100 11300 1100
-Wire Wire Line
-	11100 1100 11200 1100
-Wire Wire Line
-	11000 1100 11100 1100
-Text GLabel 11800 2700 2    50   Input ~ 0
-row0
-Text GLabel 11800 2800 2    50   Input ~ 0
-row1
-Text GLabel 11800 2900 2    50   Input ~ 0
-row2
-Text GLabel 11800 3000 2    50   Input ~ 0
-row3
-Text GLabel 11800 3100 2    50   Input ~ 0
-row4
-Text GLabel 11800 3200 2    50   Input ~ 0
-row5
-Text GLabel 10500 2500 0    50   Input ~ 0
-col1
-Text GLabel 10500 2400 0    50   Input ~ 0
-col0
-Text GLabel 10500 2600 0    50   Input ~ 0
-col2
-Text GLabel 10500 2700 0    50   Input ~ 0
-col3
-Text GLabel 10500 2800 0    50   Input ~ 0
-col4
-Text GLabel 10500 2900 0    50   Input ~ 0
-col5
-Text GLabel 10500 3000 0    50   Input ~ 0
-col6
-Text GLabel 10500 3100 0    50   Input ~ 0
-col7
-Text GLabel 10500 3200 0    50   Input ~ 0
-col8
-Text GLabel 10500 3300 0    50   Input ~ 0
-col9
-Text GLabel 10500 3400 0    50   Input ~ 0
-col10
-Text GLabel 10500 3500 0    50   Input ~ 0
-col11
-Text GLabel 10500 3600 0    50   Input ~ 0
-col12
-Text GLabel 10500 3700 0    50   Input ~ 0
-col13
-Text GLabel 10500 3800 0    50   Input ~ 0
-col14
-Text GLabel 10500 3900 0    50   Input ~ 0
-col15
-Text GLabel 11800 2400 2    50   Input ~ 0
+Text GLabel 11800 3400 2    50   Input ~ 0
 col16
-Text GLabel 11800 2500 2    50   Input ~ 0
+Text GLabel 11800 3700 2    50   Input ~ 0
 col17
-Text GLabel 11800 2600 2    50   Input ~ 0
+Text GLabel 11800 3800 2    50   Input ~ 0
 col18
 $Comp
 L power:GND #PWR?
@@ -3750,4 +3668,87 @@ F 3 "" H 6500 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 6500 2200
+Text GLabel 11800 2800 2    50   Input ~ 0
+row4
+Text GLabel 11800 2700 2    50   Input ~ 0
+row3
+Text GLabel 11800 2600 2    50   Input ~ 0
+row2
+Text GLabel 11800 2500 2    50   Input ~ 0
+row1
+Text GLabel 11800 2400 2    50   Input ~ 0
+row0
+Text GLabel 10500 3500 0    50   Input ~ 0
+col3
+Text GLabel 10500 3600 0    50   Input ~ 0
+col4
+Text GLabel 10500 3700 0    50   Input ~ 0
+col5
+Text GLabel 10500 3800 0    50   Input ~ 0
+col6
+Text GLabel 10500 3900 0    50   Input ~ 0
+col7
+Text GLabel 11800 3000 2    50   Input ~ 0
+col9
+Text GLabel 11800 3100 2    50   Input ~ 0
+col10
+Text GLabel 11800 3300 2    50   Input ~ 0
+col12
+Text GLabel 10500 4500 0    50   Input ~ 0
+col13
+Text GLabel 10500 4600 0    50   Input ~ 0
+col14
+Text GLabel 10500 4700 0    50   Input ~ 0
+col15
+Text GLabel 10500 3400 0    50   Input ~ 0
+col2
+Connection ~ 11100 1100
+Connection ~ 11200 1100
+Connection ~ 11300 1100
+Connection ~ 11400 1100
+Connection ~ 11000 4100
+Wire Wire Line
+	11000 4100 10850 4100
+Wire Wire Line
+	11100 4100 11000 4100
+Connection ~ 11100 4100
+Connection ~ 11200 4100
+Connection ~ 11300 4100
+Wire Wire Line
+	11000 1100 11100 1100
+Wire Wire Line
+	11400 4100 11300 4100
+Wire Wire Line
+	11300 1100 11400 1100
+Wire Wire Line
+	11300 4100 11200 4100
+Wire Wire Line
+	11200 1100 11300 1100
+Wire Wire Line
+	11200 4100 11100 4100
+Wire Wire Line
+	11100 1100 11200 1100
+Wire Wire Line
+	11400 1100 11550 1100
+Text GLabel 11800 2900 2    50   Input ~ 0
+col8
+$Comp
+L MCU_ST_STM32F0:STM32F072CBUx U1
+U 1 1 5F25C889
+P 11200 2600
+F 0 "U1" H 11150 4281 50  0000 C CNN
+F 1 "STM32F072CBUx" H 11150 4190 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm" H 10600 1200 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf" H 11200 2600 50  0001 C CNN
+	1    11200 2600
+	1    0    0    -1  
+$EndComp
+Text GLabel 11800 3200 2    50   Input ~ 0
+col11
+Text GLabel 10500 2500 0    50   Input ~ 0
+col0
+Text GLabel 10500 2600 0    50   Input ~ 0
+col1
+Text GLabel 10500 2400 0    50   Input ~ 0
+row5
 $EndSCHEMATC
