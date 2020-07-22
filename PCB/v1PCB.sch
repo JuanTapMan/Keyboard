@@ -971,7 +971,7 @@ U 1 1 00000321
 P 16450 6800
 F 0 "K_32" H 16450 7033 60  0000 C CNN
 F 1 "KEYSW" H 16450 6700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 16450 6800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 16450 6800 60  0001 C CNN
 F 3 "" H 16450 6800 60  0000 C CNN
 	1    16450 6800
 	1    0    0    -1  
@@ -1857,7 +1857,7 @@ U 1 1 00000671
 P 15450 8800
 F 0 "K_67" H 15450 9033 60  0000 C CNN
 F 1 "KEYSW" H 15450 8700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 15450 8800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2.25U-NoLED" H 15450 8800 60  0001 C CNN
 F 3 "" H 15450 8800 60  0000 C CNN
 	1    15450 8800
 	1    0    0    -1  
@@ -1968,7 +1968,7 @@ U 1 1 00000541
 P 20450 8800
 F 0 "K_54" H 20450 9033 60  0000 C CNN
 F 1 "KEYSW" H 20450 8700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 20450 8800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 20450 8800 60  0001 C CNN
 F 3 "" H 20450 8800 60  0000 C CNN
 	1    20450 8800
 	1    0    0    -1  
@@ -2261,7 +2261,7 @@ U 1 1 00000821
 P 15450 9800
 F 0 "K_82" H 15450 10033 60  0000 C CNN
 F 1 "KEYSW" H 15450 9700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 15450 9800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.75U-NoLED" H 15450 9800 60  0001 C CNN
 F 3 "" H 15450 9800 60  0000 C CNN
 	1    15450 9800
 	1    0    0    -1  
@@ -2482,7 +2482,7 @@ U 1 1 00000911
 P 6450 10800
 F 0 "K_91" H 6450 11033 60  0000 C CNN
 F 1 "KEYSW" H 6450 10700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6450 10800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2.25U-NoLED" H 6450 10800 60  0001 C CNN
 F 3 "" H 6450 10800 60  0000 C CNN
 	1    6450 10800
 	1    0    0    -1  
@@ -2536,7 +2536,7 @@ U 1 1 00000931
 P 10450 10800
 F 0 "K_93" H 10450 11033 60  0000 C CNN
 F 1 "KEYSW" H 10450 10700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10450 10800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-3U-NoLED" H 10450 10800 60  0001 C CNN
 F 3 "" H 10450 10800 60  0000 C CNN
 	1    10450 10800
 	1    0    0    -1  
@@ -2751,7 +2751,7 @@ U 1 1 00000871
 P 20450 10800
 F 0 "K_87" H 20450 11033 60  0000 C CNN
 F 1 "KEYSW" H 20450 10700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 20450 10800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 20450 10800 60  0001 C CNN
 F 3 "" H 20450 10800 60  0000 C CNN
 	1    20450 10800
 	1    0    0    -1  
@@ -3328,23 +3328,23 @@ F 3 "" H 8750 1500 50  0001 C CNN
 	1    8750 1500
 	1    0    0    -1  
 $EndComp
-Text GLabel 10500 2700 0    50   Input ~ 0
+Text GLabel 10400 2700 0    50   Input ~ 0
 col3
-Text GLabel 11800 3900 2    50   Input ~ 0
+Text GLabel 11950 3900 2    50   Input ~ 0
 col4
-Text GLabel 11800 3800 2    50   Input ~ 0
+Text GLabel 11950 3800 2    50   Input ~ 0
 col5
-Text GLabel 11800 3300 2    50   Input ~ 0
+Text GLabel 11950 3300 2    50   Input ~ 0
 col6
-Text GLabel 11800 3200 2    50   Input ~ 0
+Text GLabel 11950 3200 2    50   Input ~ 0
 col7
-Text GLabel 10500 3400 0    50   Input ~ 0
+Text GLabel 10400 3400 0    50   Input ~ 0
 col13
-Text GLabel 10500 2600 0    50   Input ~ 0
+Text GLabel 10400 2600 0    50   Input ~ 0
 col14
-Text GLabel 10500 2500 0    50   Input ~ 0
+Text GLabel 10400 2500 0    50   Input ~ 0
 col15
-Text GLabel 10500 2800 0    50   Input ~ 0
+Text GLabel 10400 2800 0    50   Input ~ 0
 col2
 Connection ~ 11100 1100
 Connection ~ 11200 1100
@@ -3385,11 +3385,11 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    11200 2600
 	1    0    0    -1  
 $EndComp
-Text GLabel 10500 3000 0    50   Input ~ 0
+Text GLabel 10400 3000 0    50   Input ~ 0
 col0
-Text GLabel 10500 2900 0    50   Input ~ 0
+Text GLabel 10400 2900 0    50   Input ~ 0
 col1
-Text GLabel 11800 2900 2    50   Input ~ 0
+Text GLabel 11950 2900 2    50   Input ~ 0
 row5
 Connection ~ 5200 2000
 Connection ~ 5950 2200
@@ -3667,7 +3667,7 @@ U 1 1 00000711
 P 3450 9800
 F 0 "K_71" H 3450 10033 60  0000 C CNN
 F 1 "KEYSW" H 3450 9700 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3450 9800 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2.25U-NoLED" H 3450 9800 60  0001 C CNN
 F 3 "" H 3450 9800 60  0000 C CNN
 	1    3450 9800
 	1    0    0    -1  
@@ -3980,31 +3980,31 @@ Wire Wire Line
 Wire Wire Line
 	20050 9200 20400 9200
 Connection ~ 19400 8200
-Text GLabel 10500 3600 0    50   Input ~ 0
+Text GLabel 10400 3600 0    50   Input ~ 0
 col11
-Text GLabel 10500 3900 0    50   Input ~ 0
+Text GLabel 10400 3900 0    50   Input ~ 0
 col8
-Text GLabel 10500 3500 0    50   Input ~ 0
+Text GLabel 10400 3500 0    50   Input ~ 0
 col12
-Text GLabel 10500 3700 0    50   Input ~ 0
+Text GLabel 10400 3700 0    50   Input ~ 0
 col10
-Text GLabel 10500 3800 0    50   Input ~ 0
+Text GLabel 10400 3800 0    50   Input ~ 0
 col9
-Text GLabel 11800 2400 2    50   Input ~ 0
+Text GLabel 11950 2400 2    50   Input ~ 0
 row0
-Text GLabel 11800 2500 2    50   Input ~ 0
+Text GLabel 11950 2500 2    50   Input ~ 0
 row1
-Text GLabel 11800 2600 2    50   Input ~ 0
+Text GLabel 11950 2600 2    50   Input ~ 0
 row2
-Text GLabel 11800 2700 2    50   Input ~ 0
+Text GLabel 11950 2700 2    50   Input ~ 0
 row3
-Text GLabel 11800 2800 2    50   Input ~ 0
+Text GLabel 11950 2800 2    50   Input ~ 0
 row4
-Text GLabel 11800 3000 2    50   Input ~ 0
+Text GLabel 11950 3000 2    50   Input ~ 0
 col18
-Text GLabel 11800 3100 2    50   Input ~ 0
+Text GLabel 11950 3100 2    50   Input ~ 0
 col17
-Text GLabel 10500 2400 0    50   Input ~ 0
+Text GLabel 10400 2400 0    50   Input ~ 0
 col16
 Text GLabel 11800 3600 2    50   Input ~ 0
 D+
