@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 20)
-    (tracks 1527)
+    (tracks 1525)
     (zones 0)
     (modules 223)
     (nets 150)
@@ -705,7 +705,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module Type-C:HRO-TYPE-C-31-M-12-Assembly (layer B.Cu) (tedit 5C42C666) (tstamp 5F18469A)
+  (module Type-C:HRO-TYPE-C-31-M-12-Assembly (layer B.Cu) (tedit 5C42C666) (tstamp 5F1AA5A4)
     (at 134.14375 98.552)
     (path /5F4954AB)
     (attr smd)
@@ -8916,8 +8916,6 @@
   (segment (start 117.221 109.982) (end 117.221 117.348) (width 0.3302) (layer F.Cu) (net 1))
   (segment (start 120.142 107.061) (end 117.221 109.982) (width 0.3302) (layer F.Cu) (net 1))
   (segment (start 117.221 117.348) (end 117.221 147.955) (width 0.381) (layer F.Cu) (net 1))
-  (segment (start 291.91825 218.963) (end 292.22075 219.2655) (width 0.3302) (layer B.Cu) (net 1))
-  (segment (start 291.91825 217.678) (end 291.91825 218.963) (width 0.3302) (layer B.Cu) (net 1))
   (segment (start 120.015 147.1295) (end 124.7775 151.892) (width 0.254) (layer F.Cu) (net 2))
   (segment (start 120.015 132.842) (end 120.015 147.1295) (width 0.254) (layer F.Cu) (net 2))
   (segment (start 124.7775 168.56075) (end 127.15875 170.942) (width 0.254) (layer F.Cu) (net 2))
