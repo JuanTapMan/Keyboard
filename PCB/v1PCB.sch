@@ -3281,8 +3281,6 @@ Wire Wire Line
 	4750 1700 5250 1700
 Wire Wire Line
 	3500 1500 3500 2000
-Wire Wire Line
-	2950 2000 3500 2000
 Connection ~ 3500 1500
 $Comp
 L power:GND #PWR0101
@@ -3437,7 +3435,6 @@ F 3 "~" H 5700 1600 50  0001 C CNN
 	1    5700 1600
 	1    0    0    -1  
 $EndComp
-Connection ~ 3500 2000
 Wire Wire Line
 	3500 2000 5200 2000
 Wire Wire Line
@@ -3915,9 +3912,6 @@ Wire Wire Line
 	8600 9750 8600 9450
 Wire Wire Line
 	8600 9450 7850 9450
-Connection ~ 7850 9450
-Wire Wire Line
-	7850 9450 7850 9750
 Wire Wire Line
 	9600 9750 9600 9450
 Wire Wire Line
@@ -3929,9 +3923,6 @@ Wire Wire Line
 	10600 9750 10600 9450
 Wire Wire Line
 	10600 9450 9850 9450
-Connection ~ 9850 9450
-Wire Wire Line
-	9850 9450 9850 9750
 Wire Wire Line
 	11600 9750 11600 9450
 Wire Wire Line
