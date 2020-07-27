@@ -21,8 +21,9 @@ What does this mean? I have tentative max pricing!
 Let me breakdown the pricing:
 
 1. PCB ~ 20$ (it was 80$ for 5). This price will get better depending on how many are ordered, so it will only go down from here.
-2. Case ~ 430$ (if only 5 produced). For a one-off unit, the cost is 750$ due to Initial Setup, Fixtures, Machining Time, and Materials. Every additional unit is 350$. Thus as more units get produced, the lower the cost of the case. I'm currently talking to other machine shops for other quotes to hopefully move the price to below 350 per unit, but we'll see.
-3. Miscellaneous ~ 50$. I need to assemble a few parts on the PCB, buy USB-C receptacles, buy buttons, buy screws, and program the keyboards to be compatible for QMK. Think of this as labor fees I suppose?
+2. Case ~ 300$-430$ (if only 5 produced). I'm currently negotiating with a few shops over pricing, so this is the range we're working with (max is 430$).
+3. Plate ~30$ Ponoko POM Plates. I'm trying to find FR4 suppliers, but to no avail. POM is still nice, apparently it's thoccier and softer. Given the case has so much room for flex, it should be fine.
+4. Miscellaneous ~ 50$. I need to assemble a few parts on the PCB, buy USB-C receptacles, buy buttons, buy screws, and program the keyboards to be compatible for QMK. Think of this as labor fees I suppose?
 
 I'm not looking to make money off this endeavor (I'll be down the cost of the keyboard as well), and I'd be more than happy to email my receipts and emails with machine shops to prove my pricing.
 
