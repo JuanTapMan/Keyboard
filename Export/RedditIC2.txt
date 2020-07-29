@@ -1,13 +1,10 @@
-[IC] Function (Prototype Run) - Split-Space 96%
+Hello Reddit! 
 
+**This is an [official IC](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link) for the [Function \(Prototype\)](https://imgur.com/gallery/oHiUJf0)!** Link to render album is hyperlinked.
 
-Hello Reddit!
+I'm reposting this only because it seems I posted my last update at a bad time and a fraction of the people who saw the first saw it.
 
-This is an update to yesterday's Reddit thread, which gained way more traction and support than I expected. I have a new account because I don't want my old one flooded with messages and such.
-
-**This is an [official IC](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link) for the [Function \(Prototype\)](https://imgur.com/gallery/UCJJ7AR)!** Link to album is hyperlinked.
-
-Since yesterday, 2 things have happened:
+Since my first IC, 2 things have happened:
 
 1. I placed an order for 5 assembled PCB's that should be coming within 2 weeks.
 2. I received tentative machining quotes from a few shops.
@@ -16,14 +13,14 @@ What does this mean? I have tentative max pricing!
 
 **[Pricing]**
 
-**Maximum** Price currently for an entire Function Keyboard (as-is, no metal finishing atm, no shipping included) **is 500$ (negotiations on-going for lower prices)**
+The **Maximum** Price currently for an entire [Function Keyboard](https://imgur.com/gallery/oHiUJf0) **is 500$ (negotiations on-going for lower prices)** (no tax, shipping. or anodization included).
 
 Let me breakdown the pricing:
 
 1. PCB ~ 20$ (it was 80$ for 5). This price will get better depending on how many are ordered, so it will only go down from here.
-2. Case ~ 300$-430$ (if only 5 produced). I'm currently negotiating with a few shops over pricing, so this is the range we're working with (max is 430$).
-3. Plate ~30$ Ponoko POM Plates. I'm trying to find FR4 suppliers, but to no avail. POM is still nice, apparently it's thoccier and softer. Given the case has so much room for flex, it should be fine.
-4. Miscellaneous ~ 50$. I need to assemble a few parts on the PCB, buy USB-C receptacles, buy buttons, buy screws, and program the keyboards to be compatible for QMK. Think of this as labor fees I suppose?
+2. Case ~ 370$-430$ (if only 10 produced). I'm currently negotiating with a few shops over pricing, so this is the range we're working with (max is 430$).
+3. Plate ~ 30$ Ponoko POM Plates or FR4 Plates. I have found someone willing to do FR4 plates, so I need to decide how I want to deal with the Ponoko POM plates that have been purchased if I want those FR4 plates. Maybe some of y'all want them tacked on to your order?
+4. Miscellaneous ~ 50$. I need to assemble a few parts on the PCB, buy USB-C receptacles, buy buttons, buy screws, program the keyboards to be compatible for QMK, and have some overhead (this is prototyping afterall, I already need to order another batch of PCB's lmfao)
 
 I'm not looking to make money off this endeavor (I'll be down the cost of the keyboard as well), and I'd be more than happy to email my receipts and emails with machine shops to prove my pricing.
 
@@ -32,16 +29,18 @@ I know the price is high, but that's what happens with small-production runs. I 
 [**[IC Form]**](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link)
 
 
-Now, I'm looking to sell at least 4 keyboards for now, and depending on the response to this IC, I'll increase my order count.
+Now, I'm looking to sell at least 9 keyboards for now, and depending on the response to this IC, I'll increase my order count.
 
 This is the [IC Form](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link)!
 
-Please answer the last question about whether you are willing to invest in one of these keyboards only if you're 96% sure you are going to commit to that, because that affects my negotiations for better pricing. **FOR NON-CALI RESIDENTS WITHIN THE USA or CANADA**, fill the form out too. I'll be willing to ship, but you're going to have to cover the shipping costs.
+Please answer the last question about whether you are willing to invest in one of these keyboards only if you're 96% sure you are going to commit to that, because that affects my negotiations for better pricing. **FOR NON-CALI RESIDENTS WITHIN THE USA or CANADA**, fill the form out too. I'm willing to ship these boards out! Turns out shipping isn't as daunting as I thought. I'll just need you to cover shipping and insurance costs.
 
 **[About the Design]**
 [Link to first post](https://www.reddit.com/r/mechmarket/comments/hwkolq/ic_checking_interest_for_a_small_prototype_run_of/)
 
-* The Function is a Split-Space 96%. This is a design I've wanted for a very long time but could never find, and thus why I'm creating it.
+Here is an [album of the renders](https://imgur.com/gallery/oHiUJf0).
+
+* The [Function](https://imgur.com/gallery/oHiUJf0) is a Split-Space 96%. This is a design I've wanted for a very long time but could never find, and thus why I'm creating it.
 * The blocky design is by choice. This is called Function, and my next project (if this goes through) will be called Form. 
 * This board will support USB-C and be QMK compatible.
 * This board is a top mount board with additional space for o-rings if you choose to use them.
@@ -49,10 +48,10 @@ Please answer the last question about whether you are willing to invest in one o
 
 **[My Hopeful Timeline]**
 
-1. Receive the PCB's within 2 weeks and verify that I can get them moving. Nothing progresses unless I can make the PCB's work, and with QMK.
+1. Receive the PCB's within 2 weeks and verify that I can get them working. Nothing progresses unless I can make the PCB's work, and with QMK.
 2. Once PCB's are functional, I will send an email update to everyone responding to this [IC] with a [GB] form.
-3. I will begin sending out requests for case and plate production. I don't know what the time-frame will be like, but 1 month maximum hopefully? This is under the assumption I don't make more than 10. This might seem fast, but I think the fact I'll be manufacturing locally helps compared to a traditional [GB]
+3. I will begin sending out requests for case and plate production. I don't know what the time-frame will be like, but 1 month maximum hopefully? This is under the assumption I don't make more than 10. This might seem fast (or slow, I dunno), but I think the fact I'll be manufacturing locally helps compared to a traditional [GB].
 
 Thanks for reading this post! I hope to see all of your responses to the IC Form soon.
 
-I'll be answering questions in the comments or feel free to email me at JTMkeebdesign@gmail.com
+This will be my last post until the I post about a Group Buy. I'll be answering questions in the comments or feel free to email me at JTMkeebdesign@gmail.com

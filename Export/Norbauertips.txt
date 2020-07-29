@@ -1,0 +1,19 @@
+- anodization
+-- keycoat in sj that powdercoats
+-- arnolds will do one-offs
+-- SRS Industrial Coatings, recommended by Roth
+-- uidea.com in china
+--- moby liu
+--- export in STEP file
+--- send drawings with only threading specs
+- production
+- gaining interest
+-- normally get prototypes for pictures, not renders
+- shipping
+-- UPS or Fedex for out of state
+-- Priority Mail in CA
+- funding for small first-timers
+- payment
+-- use lowest tier of shopify
+- Pocket NC
+- Tormach PCNC
