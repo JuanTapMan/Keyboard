@@ -3326,15 +3326,15 @@ F 3 "" H 8750 1500 50  0001 C CNN
 	1    8750 1500
 	1    0    0    -1  
 $EndComp
-Text GLabel 10500 3600 0    50   Input ~ 0
+Text GLabel 11800 3000 2    50   Input ~ 0
 col3
-Text GLabel 10500 3700 0    50   Input ~ 0
+Text GLabel 11800 3100 2    50   Input ~ 0
 col4
-Text GLabel 10500 3800 0    50   Input ~ 0
+Text GLabel 10500 2400 0    50   Input ~ 0
 col5
-Text GLabel 10500 3900 0    50   Input ~ 0
+Text GLabel 10500 2500 0    50   Input ~ 0
 col6
-Text GLabel 11800 3200 2    50   Input ~ 0
+Text GLabel 10500 2600 0    50   Input ~ 0
 col7
 Text GLabel 10500 2700 0    50   Input ~ 0
 col13
@@ -3342,7 +3342,7 @@ Text GLabel 10500 2800 0    50   Input ~ 0
 col14
 Text GLabel 10500 2900 0    50   Input ~ 0
 col15
-Text GLabel 10500 3500 0    50   Input ~ 0
+Text GLabel 11800 2900 2    50   Input ~ 0
 col2
 Connection ~ 11100 1100
 Connection ~ 11200 1100
@@ -3383,12 +3383,8 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    11200 2600
 	1    0    0    -1  
 $EndComp
-Text GLabel 10500 2600 0    50   Input ~ 0
-col0
-Text GLabel 10500 3400 0    50   Input ~ 0
+Text GLabel 11800 2800 2    50   Input ~ 0
 col1
-Text GLabel 10500 3300 0    50   Input ~ 0
-row5
 Connection ~ 5200 2000
 Connection ~ 5950 2200
 $Comp
@@ -3973,24 +3969,14 @@ Wire Wire Line
 Connection ~ 19400 8200
 Text GLabel 11800 3800 2    50   Input ~ 0
 col11
-Text GLabel 11800 3300 2    50   Input ~ 0
+Text GLabel 10500 3400 0    50   Input ~ 0
 col8
 Text GLabel 11800 3900 2    50   Input ~ 0
 col12
 Text GLabel 11800 3700 2    50   Input ~ 0
 col10
-Text GLabel 11800 3400 2    50   Input ~ 0
+Text GLabel 10500 3600 0    50   Input ~ 0
 col9
-Text GLabel 10500 1800 0    50   Input ~ 0
-row0
-Text GLabel 10500 1700 0    50   Input ~ 0
-row1
-Text GLabel 10500 2200 0    50   Input ~ 0
-row2
-Text GLabel 10500 2100 0    50   Input ~ 0
-row3
-Text GLabel 10500 2000 0    50   Input ~ 0
-row4
 Text GLabel 10500 3200 0    50   Input ~ 0
 col18
 Text GLabel 10500 3100 0    50   Input ~ 0
@@ -4001,4 +3987,18 @@ Text GLabel 11800 3600 2    50   Input ~ 0
 D+
 Text GLabel 11800 3500 2    50   Input ~ 0
 D-
+Text GLabel 11800 2700 2    50   Input ~ 0
+col0
+Text GLabel 10500 3300 0    50   Input ~ 0
+row5
+Text GLabel 10500 2000 0    50   Input ~ 0
+row4
+Text GLabel 10500 2100 0    50   Input ~ 0
+row3
+Text GLabel 10500 2200 0    50   Input ~ 0
+row2
+Text GLabel 10500 1700 0    50   Input ~ 0
+row1
+Text GLabel 10500 1800 0    50   Input ~ 0
+row0
 $EndSCHEMATC
