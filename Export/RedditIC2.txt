@@ -1,57 +1,41 @@
-Hello Reddit! 
+Hello Reddit!
 
-**This is an [official IC](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link) for the [Function \(Prototype\)](https://imgur.com/gallery/oHiUJf0)!** Link to render album is hyperlinked.
+A few weeks ago I posted an IC regarding my personal 96 layout personal project. Now, I've finally got the final Case, PCB, and Plate designs sorted out and ready for production, as well as QMK working on the boards.
 
-I'm reposting this only because it seems I posted my last update at a bad time and a fraction of the people who saw the first saw it.
+**[RENDERS](https://imgur.com/a/TyAoQIK)**
 
-Since my first IC, 2 things have happened:
+**[GB FORM](https://forms.gle/63AA9whbhZBMkvfD9)**
 
-1. I placed an order for 5 assembled PCB's that should be coming within 2 weeks.
-2. I received tentative machining quotes from a few shops.
+**[DISCORD](https://discord.gg/Dh4VaH6)**
 
-What does this mean? I have tentative max pricing!
+**Pricing/Breakdown:**
 
-**[Pricing]**
+$515 **Shipped and Insured**:
 
-The **Maximum** Price currently for an entire [Function Keyboard](https://imgur.com/gallery/oHiUJf0) **is 500$ (negotiations on-going for lower prices)** (no tax, shipping. or anodization included).
+* Case ~ $370-400 (6061 Alloy, ~$750 First Unit, ~$350 Per Additional Unit. I can break this down more if you'd like in PMs or an email.)
+* Plate ~ $20 (FR4)
+- PCB ~ $25 (JLCPCB)
+- Miscellaneous Parts ~ $10 (Screws, USB-C Receptacles, Buttons, Helicoils)
+- Labor ~ $10 (Soldering and QMK)
+- Prototyping Costs ~ $20 (V1 PCBs and POM Plates, unusable for final product)
+- Shipping ~ $26-30 (Fedex/UPS Flat-Rate Insured)
+- Paypal Fees ~ $15
 
-Let me breakdown the pricing:
+**GB Details**
 
-1. PCB ~ 20$ (it was 80$ for 5). This price will get better depending on how many are ordered, so it will only go down from here.
-2. Case ~ 370$-430$ (if only 10 produced). I'm currently negotiating with a few shops over pricing, so this is the range we're working with (max is 430$).
-3. Plate ~ 30$ Ponoko POM Plates or FR4 Plates. I have found someone willing to do FR4 plates, so I need to decide how I want to deal with the Ponoko POM plates that have been purchased if I want those FR4 plates. Maybe some of y'all want them tacked on to your order?
-4. Miscellaneous ~ 50$. I need to assemble a few parts on the PCB, buy USB-C receptacles, buy buttons, buy screws, program the keyboards to be compatible for QMK, and have some overhead (this is prototyping afterall, I already need to order another batch of PCB's lmfao)
+* 25 units max (it's a prototype run).
+* Live until Friday.
+* USA Only unless you have a proxy.
+* If over saturation (25units), I'll raffle off the units.
+* I will notify people if they've been chosen for a unit at the end of Friday, and payment will be due via Paypal invoice by Sunday 8/16/2020.
 
-I'm not looking to make money off this endeavor (I'll be down the cost of the keyboard as well), and I'd be more than happy to email my receipts and emails with machine shops to prove my pricing.
+**Timeline Details**
 
-I know the price is high, but that's what happens with small-production runs. I personally budgeted 500$ for this keyboard myself, so you know that my wallet is going to hurt just as much as yours.
+* Week 1 : GB ends.
+* Week 2 : All parts ordered.
+* Week 3 - 4 : PCB, Plate, and misc. parts arrive.
+* Week 4 - 5 : All PCBs soldered and flashed with QMK.
+* Week 3 - 8 : Cases manufactured.
+* Shipping begins when all components are acquired.
 
-[**[IC Form]**](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link)
-
-
-Now, I'm looking to sell at least 9 keyboards for now, and depending on the response to this IC, I'll increase my order count.
-
-This is the [IC Form](https://docs.google.com/forms/d/e/1FAIpQLSemVlDtGVddiqdZIPw61eYTpooKTykShmgZui4TNtBp6qOkdQ/viewform?usp=sf_link)!
-
-Please answer the last question about whether you are willing to invest in one of these keyboards only if you're 96% sure you are going to commit to that, because that affects my negotiations for better pricing. **FOR NON-CALI RESIDENTS WITHIN THE USA or CANADA**, fill the form out too. I'm willing to ship these boards out! Turns out shipping isn't as daunting as I thought. I'll just need you to cover shipping and insurance costs.
-
-**[About the Design]**
-[Link to first post](https://www.reddit.com/r/mechmarket/comments/hwkolq/ic_checking_interest_for_a_small_prototype_run_of/)
-
-Here is an [album of the renders](https://imgur.com/gallery/oHiUJf0).
-
-* The [Function](https://imgur.com/gallery/oHiUJf0) is a Split-Space 96%. This is a design I've wanted for a very long time but could never find, and thus why I'm creating it.
-* The blocky design is by choice. This is called Function, and my next project (if this goes through) will be called Form. 
-* This board will support USB-C and be QMK compatible.
-* This board is a top mount board with additional space for o-rings if you choose to use them.
-* Currently I have no solid plans to finish the metal, so it'd be shipping in raw aluminum form. I'm entertaining the possibility of anodization by a source that Norbauer recommended, but that may be a per-unit choice. TBD
-
-**[My Hopeful Timeline]**
-
-1. Receive the PCB's within 2 weeks and verify that I can get them working. Nothing progresses unless I can make the PCB's work, and with QMK.
-2. Once PCB's are functional, I will send an email update to everyone responding to this [IC] with a [GB] form.
-3. I will begin sending out requests for case and plate production. I don't know what the time-frame will be like, but 1 month maximum hopefully? This is under the assumption I don't make more than 10. This might seem fast (or slow, I dunno), but I think the fact I'll be manufacturing locally helps compared to a traditional [GB].
-
-Thanks for reading this post! I hope to see all of your responses to the IC Form soon.
-
-This will be my last post until the I post about a Group Buy. I'll be answering questions in the comments or feel free to email me at JTMkeebdesign@gmail.com
+Thanks for following this project! I'm free to answer any questions in the comments, via Reddit/Discord PMs, or email @ jtmkeebdesign@gmail.com.

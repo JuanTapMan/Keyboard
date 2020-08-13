@@ -3,4 +3,5 @@
   (lib (name promicro)(type Legacy)(uri E:/Github/Keyboard/PCB/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "E:/Github/Keyboard/PCB/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri E:/Github/Keyboard/PCB/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name v1PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/v1PCB-rescue.lib)(options "")(descr ""))
 )
