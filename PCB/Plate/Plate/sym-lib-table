@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Plate-rescue)(type Legacy)(uri ${KIPRJMOD}/Plate-rescue.lib)(options "")(descr ""))
+)
